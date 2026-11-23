@@ -250,3 +250,4 @@ Indian-Sign-Language-Detection-main/
 - **Indian Sign Language Research:** Indian Sign Language Research and Training Centre (ISLRTC), New Delhi.
 - **Scikit-Learn:** Pedregosa et al., *"Scikit-learn: Machine Learning in Python"*, JMLR.
 - **Guidance:** Dr. Prakash Marimuthu K., Department of Robotics & AI, Amrita Vishwa Vidyapeetham.
+- **Team-members:** Lakshya Yarlagadda and Eshaan sai  
