@@ -1,0 +1,142 @@
+{
+  "vocabulary": [
+    {
+      "sign": "I",
+      "hands": 1,
+      "category": "Pronoun",
+      "description": "Index finger pointing to chest (self)"
+    },
+    {
+      "sign": "YOU",
+      "hands": 1,
+      "category": "Pronoun",
+      "description": "Index finger pointing forward towards the conversational partner"
+    },
+    {
+      "sign": "MOTHER",
+      "hands": 2,
+      "category": "People",
+      "description": "Left hand open palm near chest, right hand tapping chin or cheek"
+    },
+    {
+      "sign": "DOCTOR",
+      "hands": 2,
+      "category": "People",
+      "description": "Right hand fingers checking pulse on left wrist"
+    },
+    {
+      "sign": "WHAT",
+      "hands": 1,
+      "category": "Question",
+      "description": "Open hand facing up with slight side-to-side rotation"
+    },
+    {
+      "sign": "WHERE",
+      "hands": 2,
+      "category": "Question",
+      "description": "Both palms open facing up moving alternately side to side"
+    },
+    {
+      "sign": "WHEN",
+      "hands": 1,
+      "category": "Question",
+      "description": "Index finger circling and touching the tip of the other index finger"
+    },
+    {
+      "sign": "WHY",
+      "hands": 1,
+      "category": "Question",
+      "description": "Hand near temple moving down into an open Y-shape"
+    },
+    {
+      "sign": "GO",
+      "hands": 1,
+      "category": "Verb",
+      "description": "Index fingers pointing and flicking outward away from body"
+    },
+    {
+      "sign": "COME",
+      "hands": 1,
+      "category": "Verb",
+      "description": "Hand gesturing inward towards body with palm facing chest"
+    },
+    {
+      "sign": "EAT",
+      "hands": 1,
+      "category": "Verb",
+      "description": "Fingers brought together in a pinched shape tapping near mouth"
+    },
+    {
+      "sign": "HELP",
+      "hands": 2,
+      "category": "Verb",
+      "description": "Closed right fist placed on flat open left palm lifting upward"
+    },
+    {
+      "sign": "WANT",
+      "hands": 1,
+      "category": "Verb",
+      "description": "Open claw hand pulling inward toward chest"
+    },
+    {
+      "sign": "SLEEP",
+      "hands": 2,
+      "category": "Verb",
+      "description": "Both palms placed together resting beside tilted head"
+    },
+    {
+      "sign": "SICK",
+      "hands": 1,
+      "category": "Descriptor",
+      "description": "Bent middle finger or palm touching forehead and stomach"
+    },
+    {
+      "sign": "HOT",
+      "hands": 1,
+      "category": "Descriptor",
+      "description": "Claw hand near mouth turning away as if blowing hot breath"
+    },
+    {
+      "sign": "COLD",
+      "hands": 2,
+      "category": "Descriptor",
+      "description": "Both fists clutched near chest trembling/shivering"
+    },
+    {
+      "sign": "GOOD",
+      "hands": 1,
+      "category": "Descriptor",
+      "description": "Flat hand moving from chin forward into a thumbs-up"
+    },
+    {
+      "sign": "HAPPY",
+      "hands": 2,
+      "category": "Descriptor",
+      "description": "Open palms brushing upwards repeatedly against chest"
+    },
+    {
+      "sign": "HOSPITAL",
+      "hands": 2,
+      "category": "Place",
+      "description": "Index fingers crossing to form a plus/cross symbol"
+    },
+    {
+      "sign": "SCHOOL",
+      "hands": 2,
+      "category": "Place",
+      "description": "Right open palm clapping down twice on flat left palm"
+    },
+    {
+      "sign": "TODAY",
+      "hands": 2,
+      "category": "Time",
+      "description": "Both Y-hands or open flat hands dropping downward in front of waist"
+    },
+    {
+      "sign": "TOMORROW",
+      "hands": 1,
+      "category": "Time",
+      "description": "Thumb flicking forward from cheek/jawline"
+    }
+  ]
+}

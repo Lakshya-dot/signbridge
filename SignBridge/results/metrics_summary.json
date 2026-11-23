@@ -1,0 +1,28 @@
+{
+  "num_classes": 32,
+  "num_features": 89,
+  "total_samples": 3840,
+  "results": {
+    "Random Forest": {
+      "cv_acc_mean": 0.9306639125023173,
+      "cv_acc_std": 0.005310233698515181,
+      "test_acc": 0.9453125,
+      "test_f1": 0.945397262822413,
+      "latency_ms": 230.00060081481934
+    },
+    "SVM (RBF Kernel)": {
+      "cv_acc_mean": 0.9114583333333334,
+      "cv_acc_std": 0.005984627705354894,
+      "test_acc": 0.9166666666666666,
+      "test_f1": 0.9167692258141744,
+      "latency_ms": 8.194174766540527
+    },
+    "MLP Classifier": {
+      "cv_acc_mean": 0.9231778819416858,
+      "cv_acc_std": 0.008876791026412874,
+      "test_acc": 0.9348958333333334,
+      "test_f1": 0.9350680670120607,
+      "latency_ms": 1.2331247329711914
+    }
+  }
+}
